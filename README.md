@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 快点合 PR 
 
 <!--
 **wangkai1994/wangkai1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
