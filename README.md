@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 快点合 PR ！
+- 🔭 I’m currently working on performance and scaling
 
 <!--
 **wangkai1994/wangkai1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
